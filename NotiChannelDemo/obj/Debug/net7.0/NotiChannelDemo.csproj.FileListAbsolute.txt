@@ -1,0 +1,14 @@
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\bin\Debug\net7.0\NotiChannelDemo.exe
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\bin\Debug\net7.0\NotiChannelDemo.deps.json
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\bin\Debug\net7.0\NotiChannelDemo.runtimeconfig.json
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\bin\Debug\net7.0\NotiChannelDemo.dll
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\bin\Debug\net7.0\NotiChannelDemo.pdb
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\NotiChannelDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\NotiChannelDemo.AssemblyInfoInputs.cache
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\NotiChannelDemo.AssemblyInfo.cs
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\NotiChannelDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\NotiChannelDemo.dll
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\refint\NotiChannelDemo.dll
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\NotiChannelDemo.pdb
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\NotiChannelDemo.genruntimeconfig.cache
+C:\Users\Sopheak\source\repos\NotiChannelDemo\NotiChannelDemo\obj\Debug\net7.0\ref\NotiChannelDemo.dll
